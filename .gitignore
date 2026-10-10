@@ -1,0 +1,28 @@
+# Executables and binary outputs
+*.exe
+*.out
+*.app
+
+# Object files and libraries
+*.o
+*.obj
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug information and temporary build files
+*.pdb
+*.ilk
+*.dSYM/
+*.suo
+*.idb
+
+# IDE and Editor directories
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
